@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckText", "LuckText\LuckText.csproj", "{3CA16328-ADD4-4725-9E0D-20A7101F1735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CA16328-ADD4-4725-9E0D-20A7101F1735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA16328-ADD4-4725-9E0D-20A7101F1735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA16328-ADD4-4725-9E0D-20A7101F1735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA16328-ADD4-4725-9E0D-20A7101F1735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
